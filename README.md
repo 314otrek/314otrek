@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @314otrek mostly Peter
+- 👋 Hi, I’m @314otrek mostly Longerinho
 - 👀 I’m interested fitness, video games, chess
 - 🌱 I’m currently learning Spring, Spring boot
 - 💞️ I’m looking for internship or any part time job until ive ended studies
+
 
 
 <!---
