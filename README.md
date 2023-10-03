@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @314otrek mostly know as Longer
-- 👀 I’m interested fitness, video games, chess
-- 🌱 I’m currently learning Spring, Spring boot
+- 👀 I’m interested fitness, technical analysis and 
+- 🌱 I’m currently learning Spring, Spring boot, LLM and Python usage in AI
 - 💞️ I’m looking for internship or any part time job until ive ended studies
 
 
