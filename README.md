@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @314otrek mostly know as Longer
-- 👀 I’m interested fitness, technical analysis and 
+- 👋 Hi, I’m @314otrek in real life as Peter
+- 👀 I’m interested fitness, technical analysis and Artificial Inteligence
 - 🌱 I’m currently learning Spring, Spring boot, LLM and Python usage in AI
-- 💞️ I’m looking for internship or any part time job until ive ended studies
+- 💞️ I'm looking for a new adventure in the world of technology
 
 
 
