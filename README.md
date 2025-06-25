@@ -1,7 +1,13 @@
-- 👋 Hi, I’m @314otrek comonlly known as Longer
-- 👀 I’m interested fitness, technical analysis and Artificial Intelligence
-- 🌱 I’m currently learning Spring, Spring boot, LLM and Python 
-- 💞️ I'm looking for a new adventure in the world of technology
+🧬 Builder of systems that think, move, and adapt
+Automating the boring, amplifying the meaningful – from n8n flows to custom AI pipelines
+
+Currently deep in Spring Boot, Python, and LLMs – not just reading about them, shipping stuff with them
+
+Obsessed with feedback loops, edge cases, and things that quietly run at 3AM
+
+Fitness, financial markets, and finding patterns where others see noise
+
+Always building, rarely explaining
 
 
 
